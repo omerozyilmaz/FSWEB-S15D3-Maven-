@@ -36,7 +36,7 @@ public class Main {
         }
         return  duplicatedEmployees;
     }
-    //frequency
+    //frequency update
 
 
     public static Map<Integer, Employee> findUniques(List<Employee> employees) {
